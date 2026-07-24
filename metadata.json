@@ -1,0 +1,6 @@
+{
+  "name": "Motion Cam Pro",
+  "description": "Live Photo & Motion Photo camera with pre-roll capture, manual flash, timer duration, and gallery motion viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
